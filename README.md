@@ -1,6 +1,6 @@
 # rock_paper_scissors
 
-Mobile Developer Assignment - Rock Paper Scissor
+Rock Paper Scissor
 
 ## Getting Started
 
