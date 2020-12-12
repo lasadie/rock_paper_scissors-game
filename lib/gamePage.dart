@@ -77,9 +77,9 @@ class _GamePageState extends State<GamePage> {
     var rdm = Random();
     setState(() {
       if (player == 'Computer 1') {
-        _player1Choice = choice[rdm.nextInt(2)];
+        _player1Choice = choice[rdm.nextInt(3)];
       } else if (player == '_computer2Choice') {
-        _player2Choice = choice[rdm.nextInt(2)];
+        _player2Choice = choice[rdm.nextInt(3)];
       }
     });
   }

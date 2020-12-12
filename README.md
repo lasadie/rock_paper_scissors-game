@@ -14,5 +14,11 @@ Rock Paper Scissor
 (8) Run the installed Android emulator or connect your android debug phone
 (9) Run the flutter project (Shift+F10)
 
+    - If you face any errors running the app, do the following:
+        [a] Delete .packages
+        [b] Run Flutter Doctor then pub get
+        [c] Run Flutter Clean
+        [d] Try running the flutter project again (Shift+F10)
+
 ## Credits
 Rock, Paper and Scissors icons credits to-> https://www.subpng.com/png-8angfn/
